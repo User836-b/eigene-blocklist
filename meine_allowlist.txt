@@ -1,0 +1,8 @@
+secure.scalable.capital
+scalable.capital
+api.scalable.capital
+cdn.scalable.capital
+ingest.sentry.io
+segment.io
+cdn.segment.com				
+de.scalable.capital
